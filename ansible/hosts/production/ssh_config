@@ -1,0 +1,5 @@
+#Host ssh-rails-app-template-production
+# HostName 123.45.67.89
+# Port 22
+# User ec2-user
+# IdentityFile /path/to/pem

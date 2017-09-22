@@ -1,0 +1,3 @@
+[submodule "ansible/roles/ansible-rbenv-role"]
+	path = ansible/roles/ansible-rbenv-role
+	url = https://github.com/yokoyamaJP/ansible-rbenv-role.git
